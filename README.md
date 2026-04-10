@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Lucas Melo</h1>
+<h1 align="center">Lucas Melo</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/devlucasmelo" target="_blank">
@@ -11,20 +11,13 @@
 <h2>💭 Sobre mim</h2>
 
 <p>
-Sou desenvolvedor focado em desenvolvimento web e mobile.
-Gosto de aprender construindo projetos reais e evoluir constantemente minhas habilidades.
-Atualmente trabalho com React, React Native e Node.js. 
+<strong>Meu nome é Lucas Melo.<br>
+Desenvolvedor Front-end com objetivo de evoluir para Full Stack.</strong>
 </p>
-
-<ul>
-  <li>🔹 Landing Page moderna (HTML, CSS, JS)</li>
-  <li>🔹 Aplicação React com consumo de API</li>
-  <li>🔹 App mobile com React Native</li
-</ul>
 
 <hr>
 
-<h2>🛠️ Linguagens & Tecnologias</h2>
+<h2>📚 Linguagens & Tecnologias</h2>
 
 <p align="center">
 
