@@ -9,27 +9,16 @@
 <hr>
 
 <h2>💭 Sobre mim</h2>
-
 <p>
-<strong>Meu nome é Lucas Melo.<br>
-Desenvolvedor Front-end com objetivo de evoluir para Full Stack.</strong>
+Desenvolvedor Front-end, caminhando para Full Stack.<br>
+Confira abaixo minha stack e meus projetos.
 </p>
 
 <hr>
 
-<h2>📚 Linguagens & Tecnologias</h2>
-
+<h2>📚 Stack</h2>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,py,cs,postgres,vscode,github" />
 
-<h3 align="center">Front-end & Mobile</h3>
-<p align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </p>
-
 <hr>
