@@ -18,7 +18,7 @@ Confira abaixo minha stack e meus projetos.
 
 <h2>📚 Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,py,cs,postgres,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,py,cs,postgres,vscode,git,github"/>
 
 </p>
 <hr>
