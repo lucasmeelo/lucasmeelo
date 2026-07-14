@@ -8,10 +8,10 @@
 
 <hr>
 
-<h2>💭 Sobre mim</h2>
+<h2>💭 About Me</h2>
 <p>
-Desenvolvedor Front-end, caminhando para Full Stack.<br>
-Confira abaixo minha stack e meus projetos.
+Coding...<br>
+Currently a Front-end Developer, focused on becoming a Full-Stack Developer.
 </p>
 
 <hr>
