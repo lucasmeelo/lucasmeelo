@@ -18,7 +18,7 @@ Currently a Front-end Developer, focused on becoming a Full-Stack Developer.
 
 <h2>📚 Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,py,cs,postgres,vscode,git,github"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,py,java,postgres,vscode,git,github"/>
 
 </p>
 <hr>
