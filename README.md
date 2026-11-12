@@ -23,7 +23,7 @@
 
 <h3 align="center">Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,py,java,postgres,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,py,java,postgres,vscode,idea,git,github" />
 </p>
 
 <hr>
