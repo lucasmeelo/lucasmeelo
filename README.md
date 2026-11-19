@@ -37,7 +37,7 @@
         &nbsp; sᴛᴀᴄᴋ
       </h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,py,java,postgres,vscode,idea,git,github&theme=dark" alt="Tech Stack" />
+        <img src="https://skillicons.dev/icons?i=ts,js,react,electron,tailwind,py,java,postgres,vscode,idea,git,github&theme=dark" alt="Tech Stack" />
       </p>
     </td>
   </tr>
